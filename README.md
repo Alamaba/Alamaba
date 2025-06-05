@@ -44,39 +44,33 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧩 Autres Outils
+### 🧩 Outils & Services
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SSIS](https://img.shields.io/badge/SSIS-008080?style=for-the-badge&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 📈 Statistiques GitHub
+## 📁 Domaines d’expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alamaba&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamaba&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🌍 Langues Parlées
-
-- 🇫🇷 Français (courant)  
-- 🇸🇦 Arabe (courant)  
-- 🇬🇧 Anglais (intermédiaire)  
-- 🇩🇯 Afar & Somali (natifs)
+- Développement d'applications Web et Mobile (Hybride)
+- Conception d'API RESTful performantes et sécurisées
+- Gestion & optimisation de bases de données complexes
+- Déploiement et intégration continue (CI/CD)
+- Architecture MVC & modulaire
+- Sécurité, performance et évolutivité
 
 ---
 
-## 📬 Me Contacter
+## 📬 Me contacter
 
-📧 Email pro : mohamed.elaf@djib.dev  
-🌐 Site perso : [www.djibdev.com](http://www.djibdev.com)
+📧 Email pro : **mohamedelaf8@gmail.com**  
+🌐 Site web : [www.djibdev.com](http://www.djibdev.com)
 
 ---
 
-> “Le code, c’est la poésie du 21e siècle.” – Mohamed Elaf
-
+> 🧠 *"Le code, c’est la poésie du 21e siècle." – Mohamed Elaf*
