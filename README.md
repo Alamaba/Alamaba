@@ -53,6 +53,12 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+
+### 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Alamaba&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamaba&layout=compact&theme=radical)
+
 ---
 
 ## 📁 Domaines d’expertise
