@@ -19,7 +19,7 @@
 
 🎓 Ingénieur logiciel (Bac+5)  
 👨‍💻 Développeur Web, Mobile & Administrateur de bases de données  
-🏢 Actuellement chez **DJIB-DATA-AI-CONSULTING** & **CNSS Djibouti**  
+🏢 Actuellement chez **CNSS Djibouti**  
 💡 Curieux, autonome, et toujours à l'affût des nouvelles technologies  
 📍 Basé à Djibouti | Âge : 27 ans  
 
