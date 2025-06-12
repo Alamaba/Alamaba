@@ -17,7 +17,7 @@
 
 ## ✨ À propos
 
-🎓 Ingénieur logiciel (Bac+5)  
+🎓 Ingénieur logiciel 
 👨‍💻 Développeur Web, Mobile & Administrateur de bases de données  
 🏢 Actuellement chez **CNSS Djibouti**  
 💡 Curieux, autonome, et toujours à l'affût des nouvelles technologies  
