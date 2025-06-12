@@ -17,7 +17,7 @@
 
 ## ✨ À propos
 
-🎓 Ingénieur logiciel 
+🎓 Ingénieur logiciel  
 👨‍💻 Développeur Web, Mobile & Administrateur de bases de données  
 🏢 Actuellement chez **CNSS Djibouti**  
 💡 Curieux, autonome, et toujours à l'affût des nouvelles technologies  
